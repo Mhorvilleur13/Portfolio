@@ -12,13 +12,6 @@ export const ProjectList = [
     link: "https://capital-exam.surge.sh",
   },
   {
-    name: "Booklito",
-    image: BooklitoPhoto,
-    skills: "React, Firebase, BootStrap",
-    gitLink: "https://github.com/Mhorvilleur13/Booklito",
-    link: "https://essay-booklet.web.app/login",
-  },
-  {
     name: "Jamming",
     image: JammingPhoto,
     skills: "React, JavaScript, CSS, HTML",

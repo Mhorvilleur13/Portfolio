@@ -32,11 +32,10 @@ function Home() {
           <li className="item">
             <h2>Brief</h2>
             <span>
-              As a Javascript programmer with a passion for education
-              technology, I am always seeking out new and innovative ways to use
-              code to enhance the learning experience. I have a deep knowledge
-              in front-end development and am proficient in ReactJS. I am also
-              skilled in using backends-as-a-service, like Firebase.
+              As a JavaScript programmer with a passion for education technology, 
+              I am always seeking out new and innovative ways to use code to enhance the learning experience.
+              I have strong expertise in full-stack development and am proficient in ReactJS, Node.js, Express,
+              MySQL, and Firebase, enabling me to build robust, scalable, and user-focused web applications.
             </span>
           </li>
           <li className="item">

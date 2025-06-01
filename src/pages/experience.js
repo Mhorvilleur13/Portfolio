@@ -12,9 +12,24 @@ function Experience() {
   return (
     <div className="experience">
       <VerticalTimeline lineColor="#3e497a">
+      <VerticalTimelineElement
+          className="vertical-timeline-element--education"
+          date="November, 2023 - Present"
+          iconStyle={{ background: "#e9d35b", color: "#fff" }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title"> Innovalaciones</h3>
+          <p>
+            <b>Full-stack Developer</b>
+          </p>
+          <p>
+           Full-stack Developer building efficient, user-friendly websites for freight forwarders and presenting product solutions to potential clients.
+           Collaborated across teams to align technical development with business goals and ensure timely, impactful project delivery.
+          </p>
+        </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="June, 2023 - Present"
+          date="June, 2023 - March, 2024"
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<WorkIcon />}
         >
@@ -23,8 +38,9 @@ function Experience() {
             <b>Front-end Developer</b>
           </p>
           <p>
-            Implemented responsive web applications utilizing React.js and
-            TypeScript.
+            Developed responsive web applications using React.js and TypeScript by creating detailed requirements, mockups,
+            and use case diagrams in collaboration with a backend team. Built a patient-facing website that allows users to 
+            manage personal profiles and share essential information with doctors.
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -40,8 +56,10 @@ function Experience() {
             <b>English Language Fellow</b>
           </p>
           <p>
-            Provided teacher-training and promoted educational programs as part
-            of a public diplomacy initative.
+            Served as an English Language Fellow supporting public diplomacy by designing and delivering professional 
+            development programs for over 500 teachers across 200 public schools. Coordinated with government officials
+            to address educational challenges, secured funding for online learning resources, and enhanced ESL materials 
+            and workshops at the American Center.
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
